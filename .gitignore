@@ -34,4 +34,9 @@ dist-ssr
 .env
 .env.*
 
+# Artefatti dei test Playwright (trace/screenshot pesanti)
+test-results/
+playwright-report/
+blob-report/
+
 modifiche.diff
